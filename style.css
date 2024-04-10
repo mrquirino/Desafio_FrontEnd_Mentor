@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Noto sans', sans-serif;
+    box-sizing: border-box;
+    background: #181717f8;
+}
+
+.arroz {
+    
+    background: #767c8a56;
+    width: 25%;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 120px;
+    border: 3px solid gray;
+}
+img {
+    align-items: center;
+    display: flex;
+    width: 250px;
+    height: auto;
+    position: center;
+    margin: auto auto;
+    border-radius: 300px 300px 300px 300px;
+    box-shadow: 5px 5px 5px 5px #00000036;
+    
+    
+
+}
+
+.redes button {
+    width: 15vw;
+    height: 2rem;
+    background: rgb(36, 35, 35);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #25252556;
+    margin: 5px auto;
+
+}
+
+.redes {
+    max-width: 600px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+
+.info h1, h2, h5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-bottom: 10px;
+    border-bottom: 5px double rgb(39, 38, 38);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.final {
+    font-size: 11px;
+    text-align: center;
+}
+
+.final a {
+    color: hsl(228, 45%, 44%);
+}
