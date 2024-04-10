@@ -65,6 +65,10 @@ img {
     margin-right: 50px;
 }
 
+.info h5{
+    color: rgb(97, 199, 97);
+}
+
 
 .final {
     font-size: 11px;
